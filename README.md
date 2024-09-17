@@ -22,7 +22,7 @@ To run this program, you need:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
+    git clone https://github.com/warrior8008/library-management-system.git
     ```
 
 2. Navigate to the project directory:
